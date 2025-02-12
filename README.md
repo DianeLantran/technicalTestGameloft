@@ -1,4 +1,4 @@
-# technicalTestGameloft
+# Technical Test Gameloft
 Technical test for the position of BackEnd Python dev. Diane Lantran 11/02/2025.
 
 python libraries to include to run this project :
